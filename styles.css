@@ -1394,6 +1394,10 @@ img {
         display: flex;
     }
 
+    .hero-visual {
+        margin-bottom: 24px;
+    }
+
     .hero-title {
         font-size: 2.5rem;
     }
