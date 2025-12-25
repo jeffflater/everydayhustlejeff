@@ -17,6 +17,10 @@
     <loc>https://everydayhustlejeff.com/gig-delivery.html</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://everydayhustlejeff.com/merch.html</loc>
+    <priority>0.8</priority>
+  </url>
 
   <!-- Signup Pages -->
   <url>
